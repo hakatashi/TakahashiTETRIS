@@ -93,13 +93,13 @@
 
 ## 効果音
 
-* 効果音源（こうかおんげん）様　http://koukaongen.com/　（一部加工）
+* 効果音源（こうかおんげん）様 http://koukaongen.com/ （一部加工）
 * moiz様
 
 
 # ライセンス
 
-私([博多市](http://hakatashi.com))が著作権を保有する以下のディレクトリの内容に関しては、[CC0](http://creativecommons.org/publicdomain/zero/1.0/)のもとで一切の著作権を放棄します。
+私([博多市](http://hakatashi.com))が著作権を保有する以下のディレクトリの内容に関しては、[CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)のもとで一切の著作権を放棄します。
 
 * MyDat
 * dat\CSV
